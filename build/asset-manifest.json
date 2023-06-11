@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.a2c4cd42.chunk.css",
-    "main.js": "/static/js/main.cebdecf9.chunk.js",
-    "main.js.map": "/static/js/main.cebdecf9.chunk.js.map",
+    "main.js": "/static/js/main.ca463fb3.chunk.js",
+    "main.js.map": "/static/js/main.ca463fb3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.337e7129.js",
     "runtime-main.js.map": "/static/js/runtime-main.337e7129.js.map",
-    "static/js/2.cd06b6d6.chunk.js": "/static/js/2.cd06b6d6.chunk.js",
-    "static/js/2.cd06b6d6.chunk.js.map": "/static/js/2.cd06b6d6.chunk.js.map",
+    "static/js/2.3d6e2b94.chunk.js": "/static/js/2.3d6e2b94.chunk.js",
+    "static/js/2.3d6e2b94.chunk.js.map": "/static/js/2.3d6e2b94.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.a2c4cd42.chunk.css.map": "/static/css/main.a2c4cd42.chunk.css.map",
-    "static/js/2.cd06b6d6.chunk.js.LICENSE.txt": "/static/js/2.cd06b6d6.chunk.js.LICENSE.txt",
+    "static/js/2.3d6e2b94.chunk.js.LICENSE.txt": "/static/js/2.3d6e2b94.chunk.js.LICENSE.txt",
     "static/media/a2z-dental-care.d1e625ea.png": "/static/media/a2z-dental-care.d1e625ea.png",
     "static/media/bookmark-app.f596078b.png": "/static/media/bookmark-app.f596078b.png",
     "static/media/creative-button-hover-effects.31585514.png": "/static/media/creative-button-hover-effects.31585514.png",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.337e7129.js",
-    "static/js/2.cd06b6d6.chunk.js",
+    "static/js/2.3d6e2b94.chunk.js",
     "static/css/main.a2c4cd42.chunk.css",
-    "static/js/main.cebdecf9.chunk.js"
+    "static/js/main.ca463fb3.chunk.js"
   ]
 }

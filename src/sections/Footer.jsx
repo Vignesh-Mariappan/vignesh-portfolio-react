@@ -26,14 +26,14 @@ const Footer = () => {
       >
         <i class="fa-brands fa-safari"></i>
       </a> */}
-      <a
+      {/* <a
         style={footerIconStyling}
         href="../assets/Vignesh-Mariappan Resume - Latest.pdf"
         rel="noreferrer"
         download
       >
         <i class="fa-solid fa-file"></i>
-      </a>
+      </a> */}
       <a
         style={footerIconStyling}
         href="mailto:vigneshmv2312@gmail.com"
