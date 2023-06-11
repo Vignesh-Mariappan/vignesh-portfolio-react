@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2c4cd42.chunk.css",
+    "main.js": "/static/js/main.cebdecf9.chunk.js",
+    "main.js.map": "/static/js/main.cebdecf9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.337e7129.js",
+    "runtime-main.js.map": "/static/js/runtime-main.337e7129.js.map",
+    "static/js/2.cd06b6d6.chunk.js": "/static/js/2.cd06b6d6.chunk.js",
+    "static/js/2.cd06b6d6.chunk.js.map": "/static/js/2.cd06b6d6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a2c4cd42.chunk.css.map": "/static/css/main.a2c4cd42.chunk.css.map",
+    "static/js/2.cd06b6d6.chunk.js.LICENSE.txt": "/static/js/2.cd06b6d6.chunk.js.LICENSE.txt",
+    "static/media/a2z-dental-care.d1e625ea.png": "/static/media/a2z-dental-care.d1e625ea.png",
+    "static/media/bookmark-app.f596078b.png": "/static/media/bookmark-app.f596078b.png",
+    "static/media/creative-button-hover-effects.31585514.png": "/static/media/creative-button-hover-effects.31585514.png",
+    "static/media/dice-game.4e7c6b29.png": "/static/media/dice-game.4e7c6b29.png",
+    "static/media/emotion-styled.5c6aa00f.png": "/static/media/emotion-styled.5c6aa00f.png",
+    "static/media/feedback-ui-app.cc824d19.jpg": "/static/media/feedback-ui-app.cc824d19.jpg",
+    "static/media/github-finder.95ce35cf.jpg": "/static/media/github-finder.95ce35cf.jpg",
+    "static/media/joke-teller.e497fc5c.png": "/static/media/joke-teller.e497fc5c.png",
+    "static/media/local-weather-app.14229399.png": "/static/media/local-weather-app.14229399.png",
+    "static/media/monsters-rolodex.212f44be.png": "/static/media/monsters-rolodex.212f44be.png",
+    "static/media/music-player.e8c962a6.png": "/static/media/music-player.e8c962a6.png",
+    "static/media/mvs-dictionary.d6c732f5.jpg": "/static/media/mvs-dictionary.d6c732f5.jpg",
+    "static/media/myworkbook-home.85e9d2ea.jpg": "/static/media/myworkbook-home.85e9d2ea.jpg",
+    "static/media/netflix-clone-min.e4a8de99.png": "/static/media/netflix-clone-min.e4a8de99.png",
+    "static/media/password-generator-min.e4407251.PNG": "/static/media/password-generator-min.e4407251.PNG",
+    "static/media/rxjs.131c8da7.png": "/static/media/rxjs.131c8da7.png",
+    "static/media/vignesh.33af02a8.jpeg": "/static/media/vignesh.33af02a8.jpeg",
+    "static/media/webpage-viewer.1fabe46d.jpg": "/static/media/webpage-viewer.1fabe46d.jpg",
+    "static/media/youtube-clone.4bd9d74e.png": "/static/media/youtube-clone.4bd9d74e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.337e7129.js",
+    "static/js/2.cd06b6d6.chunk.js",
+    "static/css/main.a2c4cd42.chunk.css",
+    "static/js/main.cebdecf9.chunk.js"
+  ]
+}
