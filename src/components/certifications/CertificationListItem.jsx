@@ -7,7 +7,7 @@ const CertificateListItem = ({
       <div className="certificate-title">{certificateTitle}</div>
       <div className="certificate-provider">{certificateProvider}</div>
       {certificateLink && (
-        <a className="certificate-link" href={certificateLink}>
+        <a className="certificate-link" href={certificateLink}  rel="noreferrer">
           View Certificate
         </a>
       )}

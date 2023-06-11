@@ -11,12 +11,13 @@ const Footer = () => {
   return (
     <footer>
       <a
+        rel="noreferrer"
         style={footerIconStyling}
         href="https://www.linkedin.com/in/vignesh-m-432606139"
       >
         <i class="fa-brands fa-linkedin" style={footerIconStyling}></i>
       </a>
-      <a style={footerIconStyling} href="https://github.com/Vignesh-Mariappan">
+      <a style={footerIconStyling} rel="noreferrer" href="https://github.com/Vignesh-Mariappan">
         <i class="fa-brands fa-github"></i>
       </a>
       {/* <a
@@ -28,6 +29,7 @@ const Footer = () => {
       <a
         style={footerIconStyling}
         href="../assets/Vignesh-Mariappan Resume - Latest.pdf"
+        rel="noreferrer"
         download
       >
         <i class="fa-solid fa-file"></i>
@@ -35,6 +37,7 @@ const Footer = () => {
       <a
         style={footerIconStyling}
         href="mailto:vigneshmv2312@gmail.com"
+        rel="noreferrer"
         download
       >
         <i class="fa-solid fa-envelope"></i>

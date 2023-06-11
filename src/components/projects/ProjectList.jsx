@@ -45,6 +45,7 @@ const ProjectList = () => {
 
       <a
         className="project"
+        rel="noreferrer"
         style={{
           backgroundColor: mode === "dark" ? "rgb(75, 75, 75)" : "#bbb"
         }}
@@ -78,6 +79,7 @@ const ProjectList = () => {
       </a>
 
       <a
+        rel="noreferrer"
         className="project"
         style={{
           backgroundColor: mode === "dark" ? "rgb(75, 75, 75)" : "#bbb"
@@ -117,6 +119,7 @@ const ProjectList = () => {
       </a>
 
       <a
+        rel="noreferrer"
         className="project"
         style={{
           backgroundColor: mode === "dark" ? "rgb(75, 75, 75)" : "#bbb"
